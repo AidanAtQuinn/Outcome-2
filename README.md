@@ -60,8 +60,7 @@ arrays.
  
 
 
-Step 1   Design your program using
-an appropriate design notation remember to show the data flow.
+
 
 
 
